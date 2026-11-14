@@ -17,7 +17,7 @@ from urllib.parse import urlparse, quote, urlunparse, unquote, parse_qs
 SHOPI_API_URL = 'https://razor-api-production.up.railway.app/shopify'
 API_ID = 32143521
 API_HASH = '273161fdfe0b9256e1baca74825672fb'
-BOT_TOKEN = ' 9145445511:AAGQR509ebSAm2riQb-5I2OhBq_2IxUbq2E'
+BOT_TOKEN = '9145445511:AAGQR509ebSAm2riQb-5I2OhBq_2IxUbq2E'
 ADMIN_IDS = [8866006557]
 
 BOT_LINK = "https://t.me/BarkChk2Bot"
